@@ -1,0 +1,5 @@
+MACHINE   set_ROLE
+
+SETS      ROLE
+
+END

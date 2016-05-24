@@ -1,0 +1,13 @@
+MACHINE           	LoL_Counter
+
+INCLUDES			
+
+PROPERTIES       	
+
+VARIABLES         	
+
+INVARIANT         	
+
+INITIALISATION    	
+
+OPERATIONS

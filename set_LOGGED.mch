@@ -1,0 +1,5 @@
+MACHINE		set_LOGGED
+
+SETS		LOGGED = {on, off}
+
+END

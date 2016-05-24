@@ -1,0 +1,5 @@
+MACHINE   set_PASSWORD
+
+SETS      PASSWORD
+
+END

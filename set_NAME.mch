@@ -1,0 +1,5 @@
+MACHINE   set_NAME
+
+SETS      NAME
+
+END

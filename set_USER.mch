@@ -1,0 +1,9 @@
+MACHINE		set_USER
+
+SEES 		set_NAME	
+
+SETS 		USER
+
+PROPERTIES	USER <: NAME
+
+END
